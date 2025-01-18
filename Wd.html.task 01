@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Personal Portfolio</title>
+
+	<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+	<div class="background-image">
+
+		<header>
+
+			<h1>Welcome to My Portfolio</h1>
+
+			<nav>
+
+				<ul>
+
+					<li><a href="#about">About</a></li>
+
+					<li><a href="#skills">Skills</a></li>
+
+					<li><a href="#projects">Projects</a></li>
+
+					<li><a href="#contact">Contact</a></li>
+
+				</ul>
+
+			</nav>
+
+		</header>
+
+		<section id="about">
+
+			<h2>About Me</h2>
+
+			<p>Hello, I'm KALAIVANI S a pre final year Currently, pursuing BE Computer Science and Engineering.</p>
+
+		</section>
+<section id="skills">
+
+			<h2>My Skills</h2>
+
+			<ul>
+        Currently I'm learning skills on HTML and CSS by my web development internship.
+
+				<li> HTML</li>
+
+				<li> CSS</li>
+
+				
+			</ul>
+
+		</section>
+
+		<section id="projects">
+
+			<h2>My Projects</h2>
+
+			<ul>
+
+				<li> My project Portfolio includes a website built using HTML and CSS.</li>
+
+				<li> My project Landing page includes a website built using HTML and CSS.</li>
+
+				<li> My project Calculator includes a website built using HTML and CSS.</li>
+
+			</ul>
+</section>
+<section id="contact">
+
+			<h2> Contact me </h2>
+
+			<p> Feel free to contact me via email.</p>
+
+			<form>
+
+				<input type="text" placeholder="Name">
+
+				<input type="email" placeholder="Email">
+
+				<textarea placeholder="Message"></textarea>
+
+				<button>Send</button>
+
+			</form>
+
+		</section>
+
+		<footer>
+
+			<p>&copy; 2025 [Kalaivani]. All rights reserved.</p>
+
+		</footer>
+
+	</div>
+
+</body>
+
+</html>
